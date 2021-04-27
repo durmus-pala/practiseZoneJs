@@ -1,1 +1,1 @@
-# practiseZoneJs
+# practiseZoneJs Here there are some coding challanges from our practise zone slack channel for JavaScript
